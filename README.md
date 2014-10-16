@@ -9,11 +9,12 @@ Airport Simulator - Assignment 1 - 2014
 Created By - Lindsay Watt
 
 
-Dependancies required to compile the AirportSimulator:
-	AirportSimulator.c
-	AirportSimLib.c
-	airportsim.h
-	Makefile
+Dependancies required to compile the AirportSimulator:  
+	 AirportSimulator.c  
+	 AirportSimLib.c   
+	 airportsim.h  
+	 Makefile
+
 
 To compile, run 'make && make clean' command in the dependancy directory.
 
