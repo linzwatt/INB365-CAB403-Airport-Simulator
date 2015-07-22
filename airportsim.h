@@ -12,8 +12,8 @@
 #define LANDING_TIME 2
 
 typedef struct aeroplane {
-	char* flight_number;
-	time_t time_landed;
+    char* flight_number;
+    time_t time_landed;
 } aeroplane_t;
 
 // function prototypes

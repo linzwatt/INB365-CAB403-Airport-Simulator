@@ -11,4 +11,4 @@ AirportSimulator.o: AirportSimulator.c
 AirportSimLib.o: AirportSimLib.c
 
 clean:
-	rm -f *.o
+    rm -f *.o
